@@ -4,6 +4,7 @@
 
 ![Binary to Decimal](./Image/binary2decimal.JPG)
 
+[Netlify Link](https://binarytodecimal-harshcodes.netlify.app/)
 
 ---
 
